@@ -8,7 +8,7 @@ title: 'Behavioural Economics: Libertarian Paternalism and Public Health\'
 
 ![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg){width=".6\textwidth"}
 
-[ ]{}**ublic health is a matter of great concern for politicians and
+**Public health is a matter of great concern for politicians and
 legislators around the world: not only does it take up a relevant slice
 of a nation’s public budget, but it also deeply affects its citizens
 quality of life. The behavioural economics approach of libertarian
@@ -20,7 +20,7 @@ towards healthier lifestyles as well as articles on better schemes for
 organ donation and topics as the improvement of hygiene in hospitals.\
 **
 
-Introduction {#introduction .unnumbered}
+Introduction 
 ============
 
 How can we make people quit smoking? Which way is the best to increase
@@ -64,7 +64,7 @@ choices at the doctors can be improved. Eventually, we emphasise on the
 positive nudging effect smartphone apps and other devices can have to
 promote healthier lifestyles and choices.
 
-Nudging towards a healthier lifestyle {#nudging-towards-a-healthier-lifestyle .unnumbered}
+Nudging towards a healthier lifestyle 
 =====================================
 
 How can managers and policymakers direct individuals towards desired
@@ -179,7 +179,7 @@ criticism that comes with such tools are more than counterbalanced by
 the perks of cheap, easy-to-apply and (generally) promptly effective
 methodologies to nudge our society towards a desirable healthy future.
 
-OPT-IN vs OPT-OUT {#opt-in-vs-opt-out .unnumbered}
+OPT-IN vs OPT-OUT 
 =================
 
 Nowadays, almost no supermarket chain offers a plastic bag to customers
@@ -316,7 +316,7 @@ right norms functions in a way similar to feedback mechanisms and it
 indeed reduced the number of missed appointments by 31.7% (Martin et
 al., 2012).
 
-Serious Games and Gamification {#gamification .unnumbered}
+Serious Games and Gamification 
 ==============================
 
 Researchers in the field of healthcare recently started to work with the
@@ -416,7 +416,7 @@ information and the constant growth of the use of smartphones, the
 development and progress in this field could (and hopefully will) be
 pivotal in increasing people’s health and lifestyle.
 
-Conclusion {#conclusion .unnumbered}
+Conclusion 
 ==========
 
 We know that people have bounded rationality, insufficient will power
