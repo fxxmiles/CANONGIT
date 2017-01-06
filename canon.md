@@ -246,7 +246,7 @@ around the world die yearly because they do not find a donor, the
 implementation of an opt-out system leads to evidently greater benefits
 than losses.
 
-Monitoring and Feedback {#monitoring-and-feedback .unnumbered}
+Monitoring and Feedback 
 =======================
 
 Health care is a field that has significant potential to utilize the
