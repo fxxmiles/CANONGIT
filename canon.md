@@ -6,9 +6,9 @@ author:
 title: 'Behavioural Economics: Libertarian Paternalism and Public Health\'
 ---
 
-![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg){width=".6\textwidth"}
+![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg)
 
-**Public health is a matter of great concern for politicians and
+*Public health is a matter of great concern for politicians and
 legislators around the world: not only does it take up a relevant slice
 of a nation’s public budget, but it also deeply affects its citizens
 quality of life. The behavioural economics approach of libertarian
@@ -17,8 +17,7 @@ this matter. In the following canon, we give an overview of the
 aforementioned contributions by presenting the most important examples
 of practical applications. These include experiments on nudging people
 towards healthier lifestyles as well as articles on better schemes for
-organ donation and topics as the improvement of hygiene in hospitals.\
-**
+organ donation and topics as the improvement of hygiene in hospitals.*
 
 Introduction 
 ============
@@ -446,82 +445,46 @@ applications in healthcare. We think that there is always space for new
 applications in new areas of healthcare to the extent that people’s
 behaviors can be changed.
 
-[99]{}
+References 
+==========
 
-A Armellino, D. et al. (2013). Replicating changes in hand hygiene in a
-surgical intensive care unit with remote video auditing and feedback.
-*American Journal of Infection Control*, 41(10), 925-927
+* Armellino, D. et al. (2013). Replicating changes in hand hygiene in a surgical intensive care unit with remote video auditing and feedback. *American Journal of Infection Control*, 41(10), 925-927
 
-B Blumenthal-Barby, J.S., & Burroughs, H. (2012). Seeking better health
-care outcomes: the ethics of using the “nudge”. *The American Journal of
-Bioethics*, 12(2), 1-10
+* Beresini, E. (2015). Fitness Isn’t a Gam, But It Should Br: The buzzword gives old tricks a new name. *Outside* Retrived from: https://www.outsideonline.com/2029846/fitness-isnt-game-it-should-be .
 
-C Haynes S.N., & Horn W.F. (1982). Reactivity in behavioral observation:
-A review. *Journal of Behavioral Assessment*, 4(4), 369-385
+* Blumenthal-Barby, J.S., & Burroughs, H. (2012). Seeking better healthcare outcomes: the ethics of using the “nudge”. *The American Journal of Bioethics*, 12(2), 1-10
 
-D Heron, K.E., & Smyth, J.M. (2010). Ecological momentary interventions:
-incorporating mobile technology into psychosocial and health behaviour
-treatments. *British journal of health psychology*, 15(1), 1-39
+* Deterding, S., et al. (2011). Gamification: Toward a Definition *In CHI 2011 Gamification Workshop Proceedings (2011)*
 
-E Johnson, E.J., & Goldstein, D. (2003). Do Defaults Save Lives?.
-*Science*, 302(5649), 1338-1339
+* Haynes S.N., & Horn W.F. (1982). Reactivity in behavioral observation: A review. *Journal of Behavioral Assessment*, 4(4), 369-385
 
-F Martin, S.J., Bassi, S., & Dunbar-Rees, R. (2012). Commitments, norms
-and custard creams – a social influence approach to reducing did not
-attends (DNAs). *Journal of the Royal Society of Medicine*, 105(3),
-101-104
+* Heron, K.E., & Smyth, J.M. (2010). Ecological momentary interventions: incorporating mobile technology into psychosocial and health behaviour treatments. *British journal of health psychology*, 15(1), 1-39
 
-G Matjasko, J.L., Cawley, J.H., Baker-Goering, M.M., & Yokum, D.M.
-(2016). Applying Behavioral Economics to Public Health Policy:
-Illustrative Examples and Promising Directions. *American Journal of
-Preventive Medicine*, 50(5 suppl 1), 1-12
+* Johnson, E.J., & Goldstein, D. (2003). Do Defaults Save Lives?.*Science*, 302(5649), 1338-1339
 
-H Orlowska, D. (1990). Staff reactivity to observation. *The British
-Journal of Mental Subnormality*, 36(71), 125-131
+* Kamel Boulos et al. (2015). Digital Games for Type 1 and Type 2 Diabetes: Underpinning Theory With Three Illustrative Examples *JMIR Serious Games 2015;3(1):e3* Retrived from: https://games.jmir.org/2015/1/e3/ .
 
-I Overdyk, F.J. et al. (2015). Remote video auditing with real-time
-feedback in an academic surgical suite improves safety and efficiency
-metrics: a cluster randomised study. *BMJ quality & safety*, 0, 1-7
+* Lister, C. et al. (2014). Just a Fad? Gamification in Health and Fitness Apps *JMIR Serious Games 2014;2(2):e9s* Retrived from: http://games.jmir.org/2014/2/e9/ .
 
-L Parkes, G., Greenhalgh, T., Griffin, M., & Dent, R. (2008). Effect on
-smoking quit rate of telling patients their lung age: the Step2quit
-randomised controlled trial. *British Medical Journal*, 336(7644),
-598-600
+* Martin, S.J., Bassi, S., & Dunbar-Rees, R. (2012). Commitments, norms and custard creams – a social influence approach to reducing did not attends (DNAs). *Journal of the Royal Society of Medicine*, 105(3), 101-104
 
-M Samson, A. (2014, February 25, ). *A simple change that could help
-everyone drink less*. Retrieved from https://www.psychologytoday.com/
-blog/ consumed/ 201402/ simple-change-could-help-everyone-drink-less
+* Matjasko, J.L., Cawley, J.H., Baker-Goering, M.M., & Yokum, D.M. (2016). Applying Behavioral Economics to Public Health Policy: Illustrative Examples and Promising Directions. *American Journal of Preventive Medicine*, 50(5 suppl 1), 1-12
 
-N Sykes, R. (1978). Toward a theory of observer effect in systematic
-field observation. *Human Organization*, 37(2), 148-156
+* McGonigal, J. *We don’t need no stinkin’ badges: How to re-invent reality without gamification.* Presentation at GDC 2011. Retrived from: http://goo.gl/9a6ka .
 
-O Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions
-About Health, Wealth, and Happiness*. Yale University Press
+* Orlowska, D. (1990). Staff reactivity to observation. *The British Journal of Mental Subnormality*, 36(71), 125-131
 
-P Voyer, B.G. (2015). ‘Nudging’ behaviours in healthcare: Insights from
-behavioural economics. *British Journal of Healthcare Management*,
-21(3), 130-135
+* Overdyk, F.J. et al. (2015). Remote video auditing with real-time feedback in an academic surgical suite improves safety and efficiency metrics: a cluster randomised study. *BMJ quality & safety*, 0, 1-7
 
-Q Walker, J.L. et al. (2014). Hospital hand hygiene compliance improves
-with increased monitoring and immediate feedback. *American Journal of
-Infection Control*, 42(10), 1074-1078
+* Parkes, G., Greenhalgh, T., Griffin, M., & Dent, R. (2008). Effect on smoking quit rate of telling patients their lung age: the Step2quit randomised controlled trial. *British Medical Journal*, 336(7644), 598-600
 
-R McGonigal, J. *We don’t need no stinkin’ badges: How to re-invent
-reality without gamification.* Presentation at GDC 2011. Retrived from:
-http://goo.gl/9a6ka .
+* Samson, A. (2014, February 25, ). *A simple change that could help everyone drink less*. Retrieved from https://www.psychologytoday.com/blog/consumed/201402/simple-change-could-help-everyone-drink-less
 
-S Lister, C. et al. (2014). Just a Fad? Gamification in Health and
-Fitness Apps *JMIR Serious Games 2014;2(2):e9s* Retrived from:
-http://games.jmir.org/2014/2/e9/ .
+* Sykes, R. (1978). Toward a theory of observer effect in systematic field observation. *Human Organization*, 37(2), 148-156
 
-T Kamel Boulos et al. (2015). Digital Games for Type 1 and Type 2
-Diabetes: Underpinning Theory With Three Illustrative Examples *JMIR
-Serious Games 2015;3(1):e3* Retrived from:
-https://games.jmir.org/2015/1/e3/ .
+* Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press
 
-U Erin Beresini (2015). Fitness Isn’t a Gam, But It Should Br: The
-buzzword gives old tricks a new name. *Outside* Retrived from:
-https://www.outsideonline.com/2029846/fitness-isnt-game-it-should-be .
+* Voyer, B.G. (2015). ‘Nudging’ behaviours in healthcare: Insights from behavioural economics. *British Journal of Healthcare Management*, 21(3), 130-135
 
-V Deterding, S., et al. (2011). Gamification: Toward a Definition *In
-CHI 2011 Gamification Workshop Proceedings (2011)*
+* Walker, J.L. et al. (2014). Hospital hand hygiene compliance improves with increased monitoring and immediate feedback. *American Journal of Infection Control*, 42(10), 1074-1078
+
