@@ -1,12 +1,15 @@
+
+#Behavioural Economics: Libertarian Paternalism and Public Health
+![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg)
+
+
 ---
-author:
-- |
+by
     Yvonne Jamar, Francesca Ventimiglia, Carolina Oliveira,
     Florian Schmidt and Sandra van der Schaaf.
-title: 'Behavioural Economics: Libertarian Paternalism and Public Health'
+
 ---
 
-![[]{data-label="fig:example"}](libertarian_paternalism_copia.jpg)
 
 *Public health is a matter of great concern for politicians and
 legislators around the world: not only does it take up a relevant slice
