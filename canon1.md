@@ -430,13 +430,12 @@ and long-term efficacy, the aim of this canon is to demonstrate the
 positive goals that can be achieved applying Behavioural Economics to
 the field of Public Health.
 
-Throughout the paper, readers were presented with ways to nudge people
+Throughout this paper, readers were presented with ways to nudge people
 towards a more suitable lifestyle (quitting smoking, eating healthier
-food and strengthening their willpower), ways in which public
+food and strengthening their willpower), tools to allow public
 administrations all over the globe could radically reduce the issues
-related to low rates of organ donation, hospitals could increase hand
-hygiene among their staff and young patients with type 1 diabetes could
-be aided in learning how to monitor and self-manage their condition.
+related to low rates of organ donation, means for hospitals to increase hand
+hygiene among their staff and young patients with type 1 diabetes to learn how to monitor and self-manage their condition.
 Such a list of achievements seems stately and somewhat utopian. It
 should be, therefore, apparent that the simplicity, efficacy and
 inexpensiveness of behavioural methodologies in reaching those goals is
@@ -458,7 +457,7 @@ To conclude, Behavioural Economics and Public Health seem as an
 incredibly functional match and further research should be executed in
 order develop and subtilize the range of possible applications. It is
 difficult to determine certain limits for Behavioural Economics
-applications in healthcare. We think that there will be space for new
+applications to healthcare. We think that there will be space for new
 applications in new areas of healthcare to the extent to which people’s
 behaviors can be positively influenced and society as a whole can be
 *softly pushed* towards a greater future.
