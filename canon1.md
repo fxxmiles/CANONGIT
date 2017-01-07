@@ -269,18 +269,18 @@ modification in the behaviour of the subjects. However, in case of
 monitoring as a method to improve health care services in the hospitals,
 modification in the behaviour of subjects -i.e. hospital staff or
 patients- is indeed, what is desired. Sykes (1978) explains the concept
-of reactivity by introducing the concept of ?observer?s effect?, which
+of reactivity by introducing the concept of *observer’s effect*, which
 is the change in the behaviour of the subject as a consequence of the
-observer?s presence. In this part of the canon, the focus of interest
+observer’s presence. In this part of the canon, the focus of interest
 regarding the implementation of monitoring and feedback programs in
-healthcare will be more about hospital staff?s behaviour and patients’
+healthcare will be more about hospital staff’s behaviour and patients’
 behaviour in attending their appointments. There are many studies aimed
-at improving staff?s behaviour and accordingly service quality in
+at improving staff’s behaviour and accordingly service quality in
 hospitals through implementation of monitoring and feedback mechanisms.
 Analysing the effect of monitoring and feedback on hospital staff?s
 behaviour regarding things like hand hygiene and surgical safety
 checklists is a common practice, because these have huge consequences
-for people?s health who visit the hospitals. Millions of people get
+for people’s health who visit the hospitals. Millions of people get
 health care-associated infections in hospitals every year, which in turn
 cause significant number of deaths. Hand hygiene, for example, is a
 crucial factor in preventing health care-associated infections as
