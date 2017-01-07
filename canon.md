@@ -5,8 +5,8 @@
 
 ---
 by
-    Yvonne Jamar, Francesca Ventimiglia, Carolina Oliveira,
-    Florian Schmidt and Sandra van der Schaaf.
+    Yvonne Jamar,  Carolina Oliveira, Florian Schmidt,
+    Zeynep Tanca, Sandra van der Schaaf and Francesca Ventimiglia.
 
 ---
 
