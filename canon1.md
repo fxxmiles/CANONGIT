@@ -335,7 +335,7 @@ situations, while the latter characterize the use of game elements in
 non-game situations. Thanks to the exponential development of digital
 technologies and the widespread use of the internet across the globe,
 these concepts are often paired with that of mHealth (or eHealth), which
-defines the integrating of new technologies in the already existing
+defines the integration of new technologies in the already existing
 healthcare apparatus. In order to better explain such innovative, but
 relatively fledgling concepts, the following section will propose two
 applications. In detail, two articles will be discussed: the first part
